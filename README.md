@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gaku 👋
 
-<!--
-**gaku-webdev/gaku-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer in Sydney. I design and build websites for small businesses, one person, start to finish, in English or Japanese.
 
-Here are some ideas to get you started:
+I moved from Japan to Australia in 2019, and I'm finishing a Bachelor of Web Development in 2027. Outside of code, I surf.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+
+- **[LM Surf Design](https://lmsurfdesign.com)**: a full rebuild of a surf shop's website in Izu, moved off an old WordPress site onto Next.js without losing its search rankings.
+- **[Aya's Healing Hands](https://ayashealinghands.com)**: a single-page booking site for a mobile massage therapist in Sydney, kept simple so her clients can book without friction.
+
+## What I work with
+
+Next.js · TypeScript · Tailwind CSS · Figma · Vercel
+
+## Get in touch
+
+- Portfolio: [PORTFOLIO URL]
+- Email: gaku.webdev@gmail.com
